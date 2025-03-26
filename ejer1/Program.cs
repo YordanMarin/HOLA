@@ -15,6 +15,10 @@ namespace ejer1
 
             Console.WriteLine("ver2");
             Console.WriteLine("ver2");
+
+            Console.WriteLine("ram2");
+            Console.WriteLine("ram2");
+
         }
     }
 }
