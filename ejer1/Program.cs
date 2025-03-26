@@ -12,6 +12,9 @@ namespace ejer1
         {
             Console.WriteLine("primera subida");
             Console.WriteLine("primera subida");
+
+            Console.WriteLine("ver2");
+            Console.WriteLine("ver2");
         }
     }
 }
